@@ -1,0 +1,22 @@
+{
+    "name": "vscode-svelte",
+    "displayName": "vscode-svelte",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "marcpaul",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marcpaul/vscode-svelte.git"
+    },
+	"icon": "icon.png",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+		"ardenivanov.svelte-intellisense",
+		"svelte.svelte-vscode"
+    ]
+}

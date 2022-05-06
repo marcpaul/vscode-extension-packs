@@ -1,0 +1,41 @@
+{
+	"name": "js-ts",
+	"displayName": "js-ts",
+	"description": "",
+	"version": "0.0.5",
+	"publisher": "marcpaul",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/marcpaul/vscode-js-ts.git"
+	},
+	"engines": {
+		"vscode": "^1.65.0"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"andyyaldoo.vscode-json",
+		"christian-kohler.npm-intellisense",
+		"cipchk.cssrem",
+		"dbaeumer.vscode-eslint",
+		"eg2.vscode-npm-script",
+		"ephoton.indent-switcher",
+		"esbenp.prettier-vscode",
+		"ghmcadams.lintlens",
+		"gitlab.gitlab-workflow",
+		"hyunkyunmoon.gzipdecompressor",
+		"jock.svg",
+		"mariusalchimavicius.json-to-ts",
+		"pflannery.vscode-versionlens",
+		"pivotal.vscode-manifest-yaml",
+		"pranaygp.vscode-css-peek",
+		"quicktype.quicktype",
+		"rbbit.typescript-hero",
+		"sburg.vscode-javascript-booster",
+		"stylelint.vscode-stylelint",
+		"thibault-vanderseypen.i18n-json-editor",
+		"wix.vscode-import-cost"
+	]
+}

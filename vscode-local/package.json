@@ -1,0 +1,30 @@
+{
+	"name": "vscode-local",
+	"displayName": "vscode-local",
+	"description": "",
+	"version": "0.0.1",
+	"publisher": "marcpaul",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/marcpaul/vscode-local.git"
+	},
+	"engines": {
+		"vscode": "^1.65.0"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"alefragnani.project-manager",
+		"GitHub.codespaces",
+		"GitHub.remotehub",
+		"mikestead.dotenv",
+		"ms-vscode-remote.remote-containers",
+		"ms-vscode-remote.remote-ssh-edit",
+		"ms-vscode-remote.remote-ssh",
+		"ms-vscode.remote-repositories",
+		"tinkertrain.theme-panda",
+		"wayou.vscode-todo-highlight"
+	]
+}

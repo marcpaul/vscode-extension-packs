@@ -1,0 +1,22 @@
+{
+    "name": "react-typescript",
+    "displayName": "react-typescript",
+    "description": "",
+    "version": "0.0.2",
+    "publisher": "marcpaul",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marcpaul/vscode-react-typescript.git"
+    },
+	"icon": "icon.png",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+		"andys8.jest-snippets",
+		"dsznajder.es7-react-js-snippets"
+    ]
+}

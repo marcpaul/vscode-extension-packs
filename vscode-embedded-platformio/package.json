@@ -1,0 +1,22 @@
+{
+    "name": "embedded-platformio",
+    "displayName": "embedded-platformio",
+    "description": "",
+    "version": "0.0.2",
+    "publisher": "marcpaul",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marcpaul/vscode-embedded-platformio.git"
+    },
+	"icon": "icon.png",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "ms-vscode.cpptools",
+        "platformio.platformio-ide"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+	"name": "remote-all",
+	"displayName": "remote-all",
+	"description": "",
+	"version": "0.0.4",
+	"publisher": "marcpaul",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/marcpaul/vscode-remote-all.git"
+	},
+	"engines": {
+		"vscode": "^1.65.0"
+	},
+	"icon": "icon.png",
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"a-bentofreire.vsctoix",
+		"abierbaum.vscode-file-peek",
+		"axetroy.vscode-changelog-generator",
+		"d3skdev.git-commit-message-helper",
+		"donjayamanne.githistory",
+		"eamodio.gitlens",
+		"editorconfig.editorconfig",
+		"eriklynd.json-tools",
+		"fabiospampinato.vscode-git-history",
+		"GitHub.vscode-pull-request-github",
+		"gruntfuggly.todo-tree",
+		"jacobcofman.changelog",
+		"nidu.copy-json-path",
+		"qcz.text-power-tools",
+		"redhat.fabric8-analytics",
+		"thomascsd.vscode-readme-pattern",
+		"yatki.vscode-surround"
+	]
+}
